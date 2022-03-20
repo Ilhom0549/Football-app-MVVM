@@ -9,5 +9,5 @@ Use https://api-football-standings.azharimm.site/leagues API
 - Kotlin Coroutines StateFlow
 - Retrofit 2
 - Picasso
-- Auto Size sdp
+- Auto Size intuit sdp ( https://github.com/intuit/sdp )
 - Google admob
