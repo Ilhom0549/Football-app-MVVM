@@ -11,3 +11,7 @@ Use https://api-football-standings.azharimm.site/leagues API
 - Picasso
 - Auto Size intuit sdp ( https://github.com/intuit/sdp )
 - Google admob
+
+
+# Screenshots
+<a href="https://github.com/Ilhom0549/Football-app-MVVM/blob/master/screenshots/first.jpg" target="_blank"><img src="https://github.com/Ilhom0549/Football-app-MVVM/blob/master/screenshots/first.jpg" height="500"></a>
