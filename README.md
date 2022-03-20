@@ -15,3 +15,4 @@ Use https://api-football-standings.azharimm.site/leagues API
 
 # Screenshots
 <a href="https://github.com/Ilhom0549/Football-app-MVVM/blob/master/screenshots/first.jpg" target="_blank"><img src="https://github.com/Ilhom0549/Football-app-MVVM/blob/master/screenshots/first.jpg" height="500"></a>
+<a href="https://github.com/Ilhom0549/Football-app-MVVM/blob/master/screenshots/second.jpg" target="_blank"><img src="https://github.com/Ilhom0549/Football-app-MVVM/blob/master/screenshots/second.jpg" height="500"></a>
