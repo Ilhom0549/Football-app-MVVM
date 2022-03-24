@@ -6,7 +6,7 @@ API: https://api-football-standings.azharimm.site/leagues
 
 - Kotlin
 - MVVM Architecture Pattern
-- Kotlin Coroutines StateFlow
+- Kotlin Coroutines MutableStateFlow
 - Retrofit 2
 - Picasso
 - Auto Size intuit sdp ( https://github.com/intuit/sdp )
